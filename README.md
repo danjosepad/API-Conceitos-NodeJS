@@ -1,7 +1,10 @@
 # Iniciando em NodeJS
 
-Revisando os conceitos de API REST na teoria e prática com NodeJS utilizando Express
+Revisando os conceitos de API REST na teoria e prática com NodeJS utilizando Express.
 
+Conteúdo apresentado no primeiro módulo do GoStack da Rocketseat.
+
+### :bookmark_tabs: Resumo 
 Nesse módulo foi desenvolvida uma aplicação utilizando os conceitos estudados com todos
 os métodos de requisição(GET, POST, PUT, DELETE) e aplicando os conceitos de middlewares de forma global e local.
 
