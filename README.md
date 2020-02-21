@@ -32,10 +32,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src="EstruturaNodeJS.png" width="100%">
-</p>
-
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
