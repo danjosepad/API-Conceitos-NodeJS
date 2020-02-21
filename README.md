@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Desafio NodeJS Rocketseat" title="apis" src="EstruturaNodeJS.png" width="250px" />
+    <img alt="Desafio NodeJS Rocketseat" title="apis" src="EstruturaNodeJS.png" width="500px" />
 </h1>
 
 <h4 align="center">
@@ -25,8 +25,8 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#book-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-documentação">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#book-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
